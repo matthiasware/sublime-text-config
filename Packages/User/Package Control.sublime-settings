@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"CMakeEditor",
+		"Cython",
+		"Google Search",
+		"Horizontal Scroll",
+		"HTMLBeautify",
+		"MoveText",
+		"Package Control",
+		"PanePane",
+		"PlainTasks",
+		"Print to HTML",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"Terminal"
+	]
+}

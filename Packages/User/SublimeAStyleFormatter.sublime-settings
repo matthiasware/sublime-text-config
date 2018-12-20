@@ -1,0 +1,9 @@
+{
+    "options_default": {
+        // Default bracket style
+        // Can be either "allman", "ansi", "bsd", "break", "java", "attach", "kr", "k&r",
+        // "k/r" "stroustrup", "whitesmith", "banner", "gnu", "linux", "horstmann", 
+        // "1tbs", "otbs ", "pico", "lisp", "python", or ""
+        "style": "google"
+    }
+}
